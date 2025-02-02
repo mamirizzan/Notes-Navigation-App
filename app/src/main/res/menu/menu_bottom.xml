@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/allNotesFragment"
+        android:icon="@drawable/ic_notes"
+        android:title="Home"/>
+    <!-- never will -->
+    <item
+        android:id="@+id/favouritesFragment"
+        android:icon="@drawable/ic_not_favourite"
+        android:title="Favourites"/>
+
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"/>
+
+</menu>
